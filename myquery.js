@@ -18,17 +18,17 @@ $(document).ready(function()
 	
 	// Uwaga: nie pisac rekursywnego load
 	
-	$("#indexAddon").load("http://qvx.cba.pl/indexAddon.html");
+	$("#indexAddon").load("indexAddon.html");
 		
     $("#spisTresci").load("spis.html"); 
 	
-	$("#krystian").load("http://qvx.cba.pl/krystian.html"); 
+	$("#krystian").load("krystian.html"); 
 
 	
-	$("#przyjaciele").load("http://qvx.cba.pl/przyjaciele.html"); 
+	$("#przyjaciele").load("przyjaciele.html"); 
 	
 	
-	$("#nazwyLiter").load("http://qvx.cba.pl/letters_digraphs.html");
+	$("#nazwyLiter").load("letters_digraphs.html");
 
 	
 	

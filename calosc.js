@@ -76,7 +76,7 @@ $(document).ready(function()
 	$("#eight").load("8.html"); 
 	
 	
-	$("#ending").load("http://qvx.cba.pl/footer.html"); 
+	$("#ending").load("footer.html"); 
 	
 	// Zakladam, ze po 2 sekundach wszystko powyzej gotowe
 	setTimeout( cleanup2, 2000);
