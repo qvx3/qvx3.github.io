@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="35.637104mm"
+   height="39.99295mm"
+   viewBox="0 0 35.637104 39.99295"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="new_qvx_github_static!_website.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3581252"
+     inkscape:cx="133.27196"
+     inkscape:cy="192.913"
+     inkscape:window-width="1280"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.62115072,-0.44437449)">
+    <path
+       id="path528"
+       style="fill:#000080;fill-rule:evenodd;stroke-width:0.291892;stroke-linecap:round;stroke-linejoin:round"
+       d="M 15.966985,0.62115093 10.675318,5.9128177 15.966985,20.729484 H 5.9128174 L 0.62115072,26.021151 20.912419,35.145658 36.258253,20.729484 H 25.674919 V 0.62115093 Z"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="rect213"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.291892;stroke-linecap:round;stroke-linejoin:round"
+       d="M 10.675318,5.9128177 V 26.021151 H 0.62115072 L 15.620752,40.437325 30.966586,26.021151 H 20.383252 V 5.9128177 Z" />
+    <path
+       style="fill:#000080;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:bevel"
+       d="M 20.383252,5.9128177 25.674919,0.62115083"
+       id="path593" />
+    <path
+       style="fill:#000080;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:bevel"
+       d="m 20.383252,25.783962 5.291667,-5.291667"
+       id="path1212" />
+  </g>
+</svg>
