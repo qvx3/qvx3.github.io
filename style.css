@@ -1,0 +1,66 @@
+
+h1 {
+	
+	margin: 10px;
+	padding: 10px;
+}
+
+.span-invisible {
+	color: rgba(0,0,0,0);
+}
+
+.head-links {
+	text-align: right;
+	width: 100%;
+}
+
+.mainpage-pictures {
+	border-collapse: collapse;
+	border: none;
+}
+
+.mainpage-pictures {
+	margin: 20px;
+	padding: 20px;
+	text-align: left;
+	vertical-align: middle;
+}
+.mainpage-pictures td {
+	margin: 20px;
+	padding: 20px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.centered-picture {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	border-width: 20px;
+	border-image: url("pattern-image3.png") 99;
+}
+
+.img-border {
+	border: solid;
+	border-width: 20px;
+	border-image: url("pattern-image3.png") 99;
+}
+
+.ul-contact li{
+	margin: 10px;
+	padding: 10px;
+	list-style: none;
+}
+
+.tall-lines {
+	line-height: 2.5;
+}
+
+body {
+	background-color: #ecffd0;
+	margin: 25px;
+	padding: 25px;
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
+}
