@@ -17,14 +17,19 @@ h1 {
 .mainpage-pictures {
 	border-collapse: collapse;
 	border: none;
-}
-
-.mainpage-pictures {
 	margin: 20px;
 	padding: 20px;
 	text-align: left;
 	vertical-align: middle;
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
 }
+
+table {
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
+}
+
 .mainpage-pictures td {
 	margin: 20px;
 	padding: 20px;
@@ -55,6 +60,11 @@ h1 {
 
 .tall-lines {
 	line-height: 2.5;
+}
+
+th {
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
 }
 
 body {
