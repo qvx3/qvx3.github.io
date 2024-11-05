@@ -48,7 +48,7 @@ table {
 
 .img-border {
 	border: solid;
-	border-width: 20px;
+	border-width: 10px;
 	border-image: url("pattern-image3.png") 99;
 }
 
