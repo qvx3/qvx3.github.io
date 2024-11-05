@@ -42,7 +42,7 @@ table {
 	margin-left: auto;
 	margin-right: auto;
 	border: solid;
-	border-width: 20px;
+	border-width: 12px;
 	border-image: url("pattern-image3.png") 99;
 }
 
@@ -56,10 +56,24 @@ table {
 	margin: 10px;
 	padding: 10px;
 	list-style: none;
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+.ul-wykonujemy li {
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
 }
 
 .tall-lines {
 	line-height: 2.5;
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+.semi-big-links {
+	font-size: 16px;
+	font-family: Trebuchet MS, sans-serif;
 }
 
 th {
